@@ -19,7 +19,6 @@ public class Conversor {
             return;
         }
 
-        // Substitua "YOUR-API-KEY" pela sua chave de API
         String apiKey = "f8e5d74f814ad69c36bf4789";
         String urlStr = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/USD";
 
